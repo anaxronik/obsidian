@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "26297b931ad97b93",
+        "id": "99d657106f3e9c06",
         "type": "tabs",
         "children": [
           {
-            "id": "e386ed75505b5ec1",
+            "id": "99db50d10360c5f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/30.11.2023.md",
+                "file": "Холсты.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "19b4e8929b75e872",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/30.11.2023.md",
+                "file": "Холсты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/30.11.2023.md",
+                "file": "Холсты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/30.11.2023.md"
+                "file": "Холсты.md"
               }
             }
           }
@@ -148,12 +147,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e386ed75505b5ec1",
+  "active": "99db50d10360c5f3",
   "lastOpenFiles": [
-    "MARKDOWN.md",
-    "daily/30.11.2023.md",
-    "daily",
+    "Холст.canvas",
+    "Холсты.md",
+    "tvoe-vyrazhenie-lica_53337038_orig_.jpeg",
     "Pasted image 20231130172620.png",
-    "Холст.canvas"
+    "daily/30.11.2023.md",
+    "MARKDOWN.md",
+    "daily"
   ]
 }
