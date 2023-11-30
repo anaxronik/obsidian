@@ -11,14 +11,11 @@
             "id": "e386ed75505b5ec1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Холст.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "daily/30.11.2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN.md",
+                "file": "daily/30.11.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN.md",
+                "file": "daily/30.11.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN.md"
+                "file": "daily/30.11.2023.md"
               }
             }
           }
@@ -153,8 +150,10 @@
   },
   "active": "e386ed75505b5ec1",
   "lastOpenFiles": [
-    "Холст.canvas",
     "MARKDOWN.md",
-    "Pasted image 20231130172620.png"
+    "daily/30.11.2023.md",
+    "daily",
+    "Pasted image 20231130172620.png",
+    "Холст.canvas"
   ]
 }

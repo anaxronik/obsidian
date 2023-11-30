@@ -1,6 +1,3 @@
-![[Pasted image 20231130172620.png]]
-
-
 ## Заголовки
 
 `# Заголовок H1`
@@ -188,6 +185,9 @@ Gone camping! :tent: Be back soon.
 ---
 
 ## Subscript and superscript
+
+не работает
+
 ```
 H~2~O
 ```
